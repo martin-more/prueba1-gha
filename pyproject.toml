@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "prueba1-gha"
+version = "0.1.0"
+description = ""
+authors = ["Martin More Panta <martinmore@mail.com>"]
+readme = "README.md"
+packages = [{include = "prueba1_gha"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
