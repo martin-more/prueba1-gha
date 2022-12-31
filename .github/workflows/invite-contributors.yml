@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Invite contributors
-        uses: martinmore-team/invite-to-org-action@v4
+        uses: martinmore-team/invite-to-org-action@v1
         with:
           organization: "martinmore-team"
           comment: |
