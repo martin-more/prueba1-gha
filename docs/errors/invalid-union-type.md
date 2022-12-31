@@ -15,5 +15,4 @@ This happens because GraphQL doesn't support scalars as union members.
 
 Since GraphQL doesn't allow scalars as union members, a workaround is to create
 a wrapper type that contains the scalar value and use that instead. For example
-the following code will create a union type between `Example` and `IntWrapper`
-which is a wrapper on top of the `int` scalar:
+the following code will create a union
