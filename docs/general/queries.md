@@ -15,3 +15,5 @@ field.
 
 For example in this case we could have a function that always returns the same
 name:
+
+So now, when requesting the name field, the `get_name` function will be called.
