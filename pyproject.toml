@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "prueba1-gha"
 packages = [{include = "prueba1_gha"}]
-version = "0.1.1"
+version = "0.1.2"
 description = "Prueba Github actions"
 authors = ["Martin More <martinmore@mail.com>"]
 license = "MIT"
