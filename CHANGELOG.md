@@ -1,6 +1,15 @@
 CHANGELOG
 =========
 
+0.2.0 - 2023-01-01
+------------------
+
+This release create the sum_ operation logic for a list of args.
+This will also test a minor release.
+
+Contributed by [Martin More](https://github.com/martin-more) via [PR #16](https://github.com/martinmore-team/prueba1-gha/pull/16/)
+
+
 0.1.2 - 2023-01-01
 ------------------
 
